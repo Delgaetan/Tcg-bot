@@ -1,0 +1,11 @@
+{
+  "cards": [
+    {"id": "flamurex", "name": "Flamurex", "hp": 40, "atk": 12, "def": 4, "rarity": "commune", "image_url": "", "description": "Un petit dragon qui crache des étincelles."},
+    {"id": "aquabelle", "name": "Aquabelle", "hp": 45, "atk": 9, "def": 7, "rarity": "commune", "image_url": "", "description": "Une naïade des rivières, difficile à toucher."},
+    {"id": "rocgardien", "name": "Rocgardien", "hp": 60, "atk": 7, "def": 12, "rarity": "rare", "image_url": "", "description": "Un golem de pierre presque impossible à percer."},
+    {"id": "ombrelame", "name": "Ombrelame", "hp": 35, "atk": 16, "def": 2, "rarity": "rare", "image_url": "", "description": "Assassin de l'ombre, frappe vite et fort."},
+    {"id": "solarys", "name": "Solarys", "hp": 70, "atk": 18, "def": 10, "rarity": "légendaire", "image_url": "", "description": "Le dragon solaire, rare et redoutable."}
+  ],
+  "rarity_weights": {"commune": 60, "rare": 30, "légendaire": 10},
+  "pack_cost": 100
+}
